@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="01 - constitution.md" />
+    <File Path="02 - requirements.md" />
+    <File Path="03 - specification.md" />
+    <File Path="04 - plan.md" />
+    <File Path="05 - architecture.md" />
+    <File Path="06 - data-model.md" />
+    <File Path="07 - contracts.md" />
+    <File Path="08 - security.md" />
+    <File Path="09 - tasks.md" />
+    <File Path="10 - tests.md" />
+    <File Path="11 - checklist.md" />
+  </Folder>
+  <Folder Name="/src/" />
+</Solution>
